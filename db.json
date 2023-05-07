@@ -1,0 +1,44 @@
+{
+    "restaurantes": [
+        {   "id": 1, 
+            "name": "Antonieta Ristorante", 
+            "stars": 5,
+            "bio": "Our restaurant is a celebration of the vibrant and diverse cuisine of Italy, where traditional recipes meet modern interpretations to create a truly unique dining experience. Our skilled chefs use only the freshest, highest-quality ingredients to prepare each dish with care and precision. From classic pasta dishes like spaghetti carbonara and linguine alle vongole to hearty meat dishes like osso buco and chicken parmigiana, we offer a wide range of authentic Italian flavors to satisfy any palate.",
+            "category": "Italiana",
+            "image": "https://media.gazetadopovo.com.br/bomgourmet/2016/05/parmegiana-cae978d0.jpg",
+            "destaque": true},
+
+        { "id": 2, 
+            "name": "Regional Grill", 
+            "stars": 4.8,
+            "bio": "Welcome to our Brazilian restaurant, where we bring the vibrant and flavorful cuisine of Brazil to your table. Our chefs are passionate about using fresh, locally-sourced ingredients to create authentic Brazilian dishes that reflect the country's rich culinary heritage. From traditional meat dishes like churrasco and feijoada to fresh seafood, vegetarian options, and sweet desserts like brigadeiro, our menu offers something for everyone. But we don't just stop at the food. We also take pride in our warm and welcoming atmosphere",
+            "category": "Brasileira",
+            "image": "https://www.comidaereceitas.com.br/wp-content/uploads/2008/07/Picanha-inteira-na-grelha-para-churrasco-freepik-780x520.jpg",
+            "destaque": false },
+            
+        { "id": 3, 
+            "name": "Dom Temakeria",
+            "stars": 4.9, 
+            "bio": "Our chefs are dedicated to using only the freshest and highest-quality ingredients, from sustainably sourced seafood to locally grown produce, to create traditional Japanese dishes with a modern twist. From sushi and sashimi to udon noodles, teriyaki, and tempura, our menu offers a wide range of flavors and textures to delight your taste buds. We take pride in our elegant yet comfortable atmosphere, where you can enjoy a leisurely meal with friends and family. Our attentive staff are always on hand.",
+            "category": "Japonesa",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggcx1H_iT4vTBkXJLj-T__RUoLFLe3K-vsJ5ZG6nLq1ZDCHfrs8M40wHFSndP5Zhvcx4b6_QwukYkDUzE1nAlQlR8mmmgpRH1iFrO5IDJV0urT5z_hRWUU0Pi6o3979x2cdJQJ-7iPJ2WIDeOhU6egT8-IbkzLRsDxUlWqpFSJkR4Nrn8ZT7u3b1Mk/s2000/receita-de-sushi.jpg",
+            "destaque": false },
+        { "id": 4, 
+            "name": "Bio Bistrot", 
+            "stars": 4.5,
+            "bio": "We take pride in our warm and welcoming atmosphere, where you can enjoy a leisurely meal with friends and family. Our knowledgeable staff are always on hand to provide recommendations and answer any questions you may have about our menu or the nutritional benefits of plant-based eating. We believe that food should not only be delicious but also nourishing and sustainable. That's why we use only the freshest, locally sourced ingredients and strive to minimize our environmental impact.",
+            "category": "Vegana",
+            "image": "https://www.acasaencantada.com.br/wp-content/uploads/2021/03/Comida-vegana-alface-grao-de-bico-tomatinhos-cereja-abacate-e-folhas-verdes-1.webp",
+            "destaque": false },
+        { "id": 5, 
+            "name": "Boa Pizzeria",  
+            "stars": 4.9,
+            "bio": "Welcome to our pizzeria, where we take pride in crafting authentic, delicious pizza using only the freshest and highest-quality ingredients. Our dough is made from scratch daily and allowed to rise slowly, resulting in a crispy yet chewy crust that serves as the perfect foundation for our flavorful toppings. From classic Margherita to creative combinations like prosciutto and fig, we offer a wide range of pizzas to satisfy any taste. We take pride in our cozy and inviting atmosphere, where you can enjoy a casual meal with friends and family.",
+            "category": "Pizzaria",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/19/76/f0/71/pizze-varie-di-gianni.jpg",
+            "destaque": false}
+    ],
+    "soap": {
+        "name": "UNDEFINED"
+    }
+}
